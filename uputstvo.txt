@@ -1,0 +1,2 @@
+Jednostavna aplikacija za rad sa bazom podataka.
+Pri registraciji token provjera za admina je "Admin"!
